@@ -1,8 +1,3 @@
-Here’s a clean and well-structured **README.md** for your Iris dataset exploration project:
-
----
-
-````markdown
 # 🌸 Iris Dataset Exploration & Visualization
 
 This project explores and visualizes the **Iris dataset** using **Pandas**, **Seaborn**, and **Matplotlib**.  
@@ -104,12 +99,12 @@ sb.boxplot(data=dataset, y='sepal_length')
 ## 📊 Output Samples
 
 ### Scatter Plot Example:
+<img width="507" height="400" alt="image" src="https://github.com/user-attachments/assets/aa23fe09-b39c-4548-958c-47b9b19cc27a" />
 
-![Scatter Plot](https://seaborn.pydata.org/_images/seaborn-scatterplot-1.png)
 
 ### Histogram Example:
+<img width="501" height="476" alt="image" src="https://github.com/user-attachments/assets/39a8d07c-7a04-4b25-9bdc-c2a40219bdac" />
 
-![Histogram](https://seaborn.pydata.org/_images/seaborn-histplot-1.png)
 
 ---
 
